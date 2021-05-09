@@ -7,7 +7,7 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "jest-enzyme": "^6.0.2",
     "jquery": "^3.3.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
